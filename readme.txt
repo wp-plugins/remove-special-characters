@@ -21,7 +21,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin will help when you add images with special characters, after activated it will remove all special characters of new images added.
 
-= Languages: =
+= Language: =
 
 * English (Default)
 
