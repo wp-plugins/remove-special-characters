@@ -1,7 +1,7 @@
 === Remove Special Characters ===
 
 Contributors: chrdesigner
-Donate link: 
+Donate link: http://www.chrdesigner.com/donate/
 Tags: remove, special characters, characters, function
 
 Requires at least: 3.0
